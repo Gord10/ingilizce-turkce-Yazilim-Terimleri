@@ -8,7 +8,7 @@
  <br>
 
 <ul type="square">
-    <li>Abort= Durdurmak</li>
+    <li>Abort= Durdurmak, sonlandırmak</li>
     <hr>
     <li>About= Hakkında</li>
     <hr>
@@ -20,7 +20,7 @@
     <hr>
     <li>Adware= Reklam İçeren Bilgisayar Yazılımı</li>
     <hr>
-    <li>Advenced= Gelişmiş</li>
+    <li>Advanced= Gelişmiş</li>
     <hr>
     <li>Administrators= Yöneticiler</li>
     <hr>
@@ -38,7 +38,7 @@
     <hr>
     <li>Archive= Arşivlemek</li>
     <hr>
-    <li>Argument= Değişken</li>
+    <li>Argument= Bir fonksiyona gönderilen değişken</li>
     <hr>
     <li>Array= Dizi</li>
     <hr>
@@ -72,15 +72,15 @@
     <hr>
     <li>Brand New= Yepyeni </li>
     <hr>
-    <li>Browser= Tarayıcı </li>
+    <li>Browser= Tarayıcı (Google Chrome, Mozilla Firefox gibi) </li>
     <hr>
-    <li>Bug= Böcek/Hata</li>
+    <li>Bug= Böcek/Hata. Bir yazılımdaki hata.</li>
     <hr>
     <li>Bug Bounty Program= Yazılım Hatası Bulma Ödülü Programı</li>
     <hr>
     <li>Body= Gövde</li>
     <hr>
-    <li>Boolen= Mantıksal</li>
+    <li>Boolean= Mantıksal. Değeri sadece 1 veya 0 (başka bir deyişle "true" veya "false") olabilen değişken.</li>
     <hr>
     <br>
     <br>
@@ -394,7 +394,7 @@
     <hr>
     <li>Log= Sistem Günlüğü</li>
     <hr>
-    <li>Logging= Şüpheli Faaliyetleri Tespit Etmek İçin Kullanıcı Faaliyetlerini İzlemek.</li>
+    <li>Logging= Sistemde gerçekleşen olayları (bilgileri, uyarıları, hataları, vs) kayıt altına almak.</li>
     <hr>
     <br>
     <br>
@@ -615,7 +615,7 @@
     <hr>
     <li>Spreadsheet= Elektronik Tablo Programı</li>
     <hr>
-    <li>Spyware= Dasus yazılım</li>
+    <li>Spyware= Casus yazılım</li>
     <hr>
     <li>Status= Durum</li>
     <hr>
@@ -701,7 +701,7 @@
     <hr>
     <li>Usability= Kullanılabilirlik</li>
     <hr>
-    <li>Url= Uzantı</li>
+    <li>Url= Uzantı (Genellikle websitesi adresi)</li>
     <hr>
     <li>Utility= Yardımcı Program</li>
     <hr>
@@ -750,7 +750,7 @@
     <hr>
     <li>Wrap Text= Metni Kaydır</li>
     <hr>
-    <li>WYSIWYG (What You See Is What You Het)= Ne Görüyorsan Sonuç Olarak Onu Alırsın.</li>
+    <li>WYSIWYG (What You See Is What You Get)= Ne Görüyorsan Sonuç Olarak Onu Alırsın.</li>
     <hr>
     <li>WAGMI(We All Gonna Make It)= Hepimiz Başaracağız.</li>
     <hr>
